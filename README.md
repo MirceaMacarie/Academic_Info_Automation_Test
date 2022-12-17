@@ -19,8 +19,9 @@ This automation project was created to practice personal automation skills and t
 + **JavaScript** as programming language
 + **Node.js** as runtime environment
 + **Webdriver.io** as automation framework for web applications
++ **Google Chrome** as test browser, with chromedriver
 
-    <img src="https://user-images.githubusercontent.com/115346533/207126821-44c69b50-e31e-47cf-807d-360653372d09.png" width="91" height="91">               <img src="https://user-images.githubusercontent.com/115346533/207125973-3188c005-11c9-4c49-ab8c-b71e5c58a5c4.png" width="80" height="91">   <img src="https://user-images.githubusercontent.com/115346533/207128580-5f3dd3bc-44f7-49dc-8cdb-a4991368536a.png" width="80" height="91">
+    <img src="https://user-images.githubusercontent.com/115346533/207126821-44c69b50-e31e-47cf-807d-360653372d09.png" width="91" height="91">               <img src="https://user-images.githubusercontent.com/115346533/207125973-3188c005-11c9-4c49-ab8c-b71e5c58a5c4.png" width="80" height="91">   <img src="https://user-images.githubusercontent.com/115346533/207128580-5f3dd3bc-44f7-49dc-8cdb-a4991368536a.png" width="80" height="91">   <img src="https://user-images.githubusercontent.com/115346533/208242996-fae0e828-b968-45cd-ab0c-1a73c9825b65.png" width="91" height="91">
     
     
     
@@ -41,7 +42,7 @@ This project was thought as a way to:
 + if **it respects a Positive Flow for a normal user / student**, 
 + **to check certain static details (buttons, titles, text, etc.)**.
 
-**N.B.:exclamation:  From the flow of tests thought and written by me, the only functionality that could not be automated is the reCAPTCHA element. This is the only button accessed manually during the execution of the automated test.**
+:bangbang: **N.B.  From the flow of tests thought and written by me, the only functionality that could not be automated is the reCAPTCHA element. This is the only button accessed manually during the execution of the automated test.**
 
 
 
