@@ -52,7 +52,7 @@ This project was thought as a way to:
 ## :pushpin: Demo video of the Automation test :clapper:
 There are **2 versions** of the test execution presented below in 2 short videos. 
 
-1. The first one verifies that all the tests are working properly, with no coding errors. 
+1. The first one verifies that all the tests are working properly, with no coding errors. :point_down:
 
 
 https://user-images.githubusercontent.com/115346533/208291491-e323eb3d-b3d6-4227-be22-544e0bdac654.mp4
@@ -61,7 +61,7 @@ https://user-images.githubusercontent.com/115346533/208291491-e323eb3d-b3d6-4227
 
 
 
-2. The second version contains a test that verifies the existence of Copyright for the current year (2022). It is observed in the video that the test fails for this reason, the Copyright of the web platform not being updated, which is a bug. 
+2. The second version contains a test that verifies the existence of Copyright for the current year (2022). It is observed in the video that the test fails for this reason, the Copyright of the web platform not being updated, which is a bug. :point_down:
 
 
 https://user-images.githubusercontent.com/115346533/208291507-aa66ab45-7997-4844-86f6-7ef5909b6879.mp4
