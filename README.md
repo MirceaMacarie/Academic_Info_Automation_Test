@@ -36,7 +36,7 @@ As support, I used **the website https://academicinfo.ubbcluj.ro/Info/** for the
 
 
 
-## :pushpin: Testing objects :microscope:
+## :pushpin: Testing objectives :microscope:
 This project was thought as a way to:
 + check if **certain functions of the site can be automated**, 
 + if **it respects a Positive Flow for a normal user / student**, 
@@ -55,17 +55,19 @@ There are **2 versions** of the test execution presented below in 2 short videos
 1. The first one verifies that all the tests are working properly, with no coding errors. 
 
 
-Video1
+https://user-images.githubusercontent.com/115346533/208291491-e323eb3d-b3d6-4227-be22-544e0bdac654.mp4
+
+
 
 
 
 2. The second version contains a test that verifies the existence of Copyright for the current year (2022). It is observed in the video that the test fails for this reason, the Copyright of the web platform not being updated, which is a bug. 
 
 
-Video2
+https://user-images.githubusercontent.com/115346533/208291507-aa66ab45-7997-4844-86f6-7ef5909b6879.mp4
+
 
 
 
 ------
-
 
