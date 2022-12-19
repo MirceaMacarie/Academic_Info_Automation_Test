@@ -49,10 +49,10 @@ This project was thought as a way to:
 
 
 
-## :pushpin: Demo video of the Automation test :clapper:
+## :pushpin: Demo videos of the Automation test :clapper:
 There are **2 versions** of the test execution presented below in 2 short videos. 
 
-1. The first one verifies that all the tests are working properly, with no coding errors. :point_down:
+1. The first version verifies that all the tests are working properly, with no coding errors. :point_down:
 
 
 https://user-images.githubusercontent.com/115346533/208291491-e323eb3d-b3d6-4227-be22-544e0bdac654.mp4
